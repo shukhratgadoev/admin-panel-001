@@ -1,0 +1,10 @@
+.dot::after {
+	background-color: #f7685b;
+	position: absolute;
+	border-radius: 50%;
+	content: '';
+	height: 8px;
+	width: 8px;
+	left: 8px;
+	top: 3px;
+}
